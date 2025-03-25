@@ -1,0 +1,16 @@
+{
+    "nome": "Gabriel",
+    "sobrenome": "Fernandes Feitosa",
+    "altura": 1.7,
+    "idade": 20,
+    "enderecos": [
+        {
+            "rua": 123,
+            "numero": 21
+        },
+        {
+            "rua": 456,
+            "numero": 26
+        }
+    ]
+}
